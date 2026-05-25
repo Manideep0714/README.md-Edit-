@@ -36,21 +36,13 @@
 
 ---
 
-# 🔥 BMW 
+# 🔥 BMW X ZORO
 <p align="center">
-  <img src="./zoro.gif" width="400">
+  <img src="./BMW.gif" width="350">
+  <img src="./zoro.gif" width="350">
 </p>
-
-<p align="center">
-  <img src="./BWM.gif" width="400">
-</p>
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-
 ---
+
 
 # 👀 Visitor Count
 

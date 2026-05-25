@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-11-blue?style=for-the-badge&logo=windows">
-  <img src="https://img.shields.io/badge/Intel-i5-blue?style=for-the-badge&logo=intel">
+  <img src="https://img.shields.io/badge/Intel-i7-blue?style=for-the-badge&logo=intel">
   <img src="https://img.shields.io/badge/Gaming-Mode-red?style=for-the-badge&logo=steam">
 </p>
 
@@ -38,14 +38,12 @@
 
 # 🔥 BMW 
 <p align="center">
-  <img src="./BWM.gif" width="600">
+  <img src="./zoro.gif" width="400">
 </p>
----
-# ZORO 
+
 <p align="center">
-  <img src="./zoro.gif" width="500">
+  <img src="./BWM.gif" width="400">
 </p>
----
 # 🐍 Contribution Snake
 
 <p align="center">

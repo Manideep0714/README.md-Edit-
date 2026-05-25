@@ -43,7 +43,11 @@
 </p>
 
 ---
-
+# ZORO 
+<p align="center">
+  <img src="./zoro.gif" width="500">
+</p>
+---
 # 🐍 Contribution Snake
 
 <p align="center">

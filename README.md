@@ -1,13 +1,5 @@
 <h1 align="center">⚔️ Welcome To My GitHub ⚔️</h1>
 
-<h3 align="center">💚 Zoro • Coding • Gaming • Anime 💚</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.gif" width="350">
-</p>
-
----
-
 # 🎮 About Me
 
 - ⚔️ Zoro Fan
@@ -15,16 +7,6 @@
 - 💻 Learning Python & Web Development
 - 🚀 Future Full Stack Developer
 - 🔥 Love Anime + Coding
-
----
-
-# 🎧 Spotify Music
-
-<p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</p>
 
 ---
 
@@ -50,14 +32,6 @@
 
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manideep0714&show_icons=true&theme=tokyonight" width="48%">
 </p>
 
 ---

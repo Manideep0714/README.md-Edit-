@@ -36,12 +36,10 @@
 
 ---
 
-# 🔥 GitHub Streak
-
+# 🔥 BMW 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manideep0714&theme=tokyonight" width="48%">
+  <img src="./BWM.gif" width="600">
 </p>
-
 ---
 # ZORO 
 <p align="center">
